@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+Explore the relationships between causes of death and other factors, based off a worldwide data set
 
 ## Process
 ### (your step 1)
